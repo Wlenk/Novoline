@@ -5,7 +5,7 @@
 
 ## Credits
 Aidan - Providing the base jar for the remap\
-Hippo - Helping fix the jar since ASM is brown\n
+Hippo - Helping fix the jar since ASM is brown\
 TEAM KHONSARI - Creating the mappings used for this project
 
 ## NOTE
